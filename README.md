@@ -6,7 +6,7 @@ __**Collaborators:**__
 - Micheal Hogan         15172856
 - Fiston Kulimushi         19258879
 - Seamie Hayes            19264089
-
+-----------------------------------------------------------------------------------------------------
 - In the `code section` we have all of our progress so far with the project.
 - In the `Final Version of Project folder` has both the `Final Report` and `Final Poster` uploaded there.
 - In the `Structure folder` it has a file called `Report_empty` which has the general structure of the report before combining our work together.
